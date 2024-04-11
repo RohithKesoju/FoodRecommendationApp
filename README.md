@@ -12,7 +12,7 @@ Note: Make sure you have installed native code dependencies [here](https://react
     2. Then, run `cd android && gradle wrapper && cd ..`
     3. Then, run `npx react-native run-android`
   
-Output Screenshots:
+
 ![1](https://github.com/RohithKesoju/FoodRecommendationApp/assets/130960487/0fcaf58e-9585-4681-901a-522185c33ce6)
 ![2](https://github.com/RohithKesoju/FoodRecommendationApp/assets/130960487/d721fd87-83bd-43e8-ba6e-e44f8af60304)
 ![3](https://github.com/RohithKesoju/FoodRecommendationApp/assets/130960487/63008995-960a-4eeb-baa9-742fad5bbba1)
